@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.dark-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e293b;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+  font-size: 70px;
+  font-family: 'Bree Serif';
+}
+.description {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Bree Serif';
+}
+
+.button {
+  color: #1e293b;
+  background-color: #ffffff;
+  height: 2rem;
+  font-weight: bold;
+  width: 6rem;
+  border-radius: 6px;
+  border: solid 1px #1e293b;
+}
